@@ -41,7 +41,7 @@ export const projects: Project[] = [
     desktopVideoSrc: '/vids/montedeskret.mp4',
 
     mobileVideoSrc: '/vids/montehandy.mp4',
-    liveSite: 'https://ymjr-paris.myshopify.com/',
+    liveSite: '/',
   },
 
   {
@@ -68,7 +68,7 @@ export const projects: Project[] = [
     desktopVideoSrc: '/vids/monolithdeskret.mp4',
 
     mobileVideoSrc: '/vids/monolithandypor.mp4',
-    liveSite: 'https://your-actual-site.com',
+    liveSite: '/',
   },
 
     {
